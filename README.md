@@ -5,7 +5,7 @@ Introduction:
 - There is only one class you need to have, or you can just copy the code provided.
 
 The Code:
-- In order to have words for you to guess, you need to input words in the newWord String array, you can follow the format of the words that are already inputted for you.
+- In order to have words for you to guess, you need to input words in the wordToGuess String array, you can follow the format of the words that are already inputted for you.
 
 When playing the game:
 - You will have only 6 lives for the guesses each life representing the person for the hangman (Head, Body, 2 Arms, and 2 Legs).
